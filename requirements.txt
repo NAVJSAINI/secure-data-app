@@ -1,0 +1,13 @@
+Python 3.x
+cryptography library
+
+Install dependencies:
+
+pip install cryptography
+Running the Application
+py app.py
+
+Login example:
+
+Username: admin
+Password: admin123
